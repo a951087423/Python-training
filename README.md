@@ -1,4 +1,4 @@
-# Python-training
+# Python-learning
 
 My second language i want to learn.  
 It is easy to code something. Because it is faster than other language.  
